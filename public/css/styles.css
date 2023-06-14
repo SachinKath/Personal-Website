@@ -1,0 +1,135 @@
+h1 {
+  padding-top: 10px;
+  font-size: 2rem;
+}
+#title {
+  background-color: #F1D3B3;
+  text-align: center;
+  height: 750px;
+  padding-top: 200px;
+}
+#projects {
+  background-color: #F1D3B3;
+  text-align: center;
+  height: 750px;
+}
+#app {
+  margin: 15px;
+  font-weight: 250;
+  font-size: 1.5rem;
+}
+#footer {
+  background-color: #222222;
+  color: white;
+  height: 150px;
+  text-align: center;
+  padding: 50px;
+}
+
+.heading-title {
+  text-align: center;
+  padding-top: 75px;
+  font-size: 1.2rem;
+  letter-spacing: 3px;
+  font-weight: 350;
+}
+.profilePic {
+  width: 205px;
+  height: 300px;
+  position: relative;
+  left: 13px;
+  top: 10px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.15);
+}
+.about-card {
+  margin-top: 15%;
+  margin-left: 15%;
+  margin-bottom: 20%;
+}
+.card-heading {
+  padding: 0;
+}
+.card-title
+{
+  font-size: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.image-container {
+  background-color: #fff;
+  box-shadow: 0 4px 6px rgb(0 0 0 / 30%);
+  position: relative;
+  width: 230px;
+  height: 360px;
+  left: 120px;
+  top: 25px;
+}
+.projects-container {
+  margin-top: 100px;
+  background-color: #fff;
+  box-shadow: 0 4px 6px rgb(0 0 0 / 30%);
+  position: relative;
+  width: 300px;
+  height: 300px;
+  left: 120px;
+  top: 25px;
+  transition: box-shadow 0.15s, 
+  width 0.15s, 
+  height 0.15s;
+}
+.projects-container:hover {
+  box-shadow: 10px 10px 6px rgb(0 0 0 / 30%);
+  width: 305px;
+  height: 305px;
+}
+.social-link {
+  margin-left: 10px;
+  margin-right: 10px;
+  color: white;
+  font-size: 12px;
+  transition: opacity 0.15s;
+}
+.social-link:hover {
+  opacity: 0.8;
+  color: white;
+}
+.feature-box {
+  background-color: #fff;
+  padding: 15px;
+}
+.footer-text {
+  margin-top: 30px;
+  font-size: 12px;
+}
+.projects-button {
+  background-color: transparent;
+  width: 300px;
+  height: 300px;;
+  border: none;
+}
+.projects-title {
+  text-align: center;
+  font-size: 1.2rem;
+  letter-spacing: 2px;
+  font-weight: 350;
+}
+.modal-title {
+  text-align: left;
+  margin-top: 20px;
+  font-weight: 350;
+}
+.modal-paragraph {
+  text-align: left;
+  margin-top: 13px;
+  font-weight: 325;
+  font-size: 15px;
+}
+.modal-body {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.close {
+  border: none;
+  background-color: transparent;
+  margin-left: 740px;
+}
